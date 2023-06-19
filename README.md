@@ -1,5 +1,5 @@
 # Chuck Norris Joke Generator
-This is version 2
+This is version 3
 
 This is a library that spits out random chuck norris jokes. 
 
