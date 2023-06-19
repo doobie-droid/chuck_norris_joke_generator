@@ -1,0 +1,8 @@
+# THIS IS WHERE YOU PUT THE FILES THAT GIT SHOULD IGNORE WHEN CONVERTNG YOUR REPO TO A ZIP
+
+.gitignore export-ignore
+.gitattributes export-ignore
+.gitmodules export-ignore
+.git export-ignore
+.github export-ignore
+LICENSE.md export-ignore
