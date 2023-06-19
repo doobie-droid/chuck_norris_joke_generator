@@ -1,0 +1,25 @@
+{
+  "name": "doobie-droid/chuck_norris_joke_generator",
+  "description": "This package allows us to create chuck norris jokes randomly and is used for testing purposes.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "doobie-droid",
+      "email": "lesliedouglas23@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DoobieDroid\\ChuckNorrisJokeGenerator\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "DoobieDroid\\ChuckNorrisJokeGenerator\\Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  }
+}
