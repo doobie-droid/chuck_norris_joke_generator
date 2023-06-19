@@ -22,7 +22,8 @@ class JokeFactory
                 "Chuck Norris's cowboy boots are made from real cowboys.",
                 "Chuck Norris can start a fire with an ice cube.",
                 "The flu gets a Chuck Norris shot every year.",
-                "This is the version one release"
+                "This is the version one release",
+                "This is the version two release"
             ];
         }
         return $this->jokes[array_rand($this->jokes)];
